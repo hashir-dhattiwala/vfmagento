@@ -1,0 +1,160 @@
+Hagefokus.no
+Postnord shipping method customization and issue fixing, for product quantity vs shipping rate in checkout.
+xlklokker.no
+
+cpanel: we000190 Y2hTc4GF8qhhkpz ftp: ftp://xlklokker.webexpressen.no we000190 Y2hTc4GF8qhhkpz admin: admin DHS0uZi6
+Comments2
+Add cost price field in magento admin for products Hashir Dhattiwala
+Comments9
+Stock keeping report Hashir Dhattiwala
+Add an item
+Corefitness.no
+
+cpanel: we00020 FhQsH5ZNBWF5h3j ftp://corefitness.webexpressen.no we00020 FhQsH5ZNBWF5h3j admin: admin EML0rlh1
+Comments3
+Issue as per email - quantity Hashir Dhattiwala
+Comments10
+Need field in magento admin to enter cost price of products. Hashir Dhattiwala
+Add an item
+Comments13
+Dec 27 Stock keeping report (Hashir Dhattiwala)
+Worldofart / woa.no
+
+<Host>worldofart.no</Host> <Port>21</Port> <Protocol>0</Protocol> <Type>0</Type> <User>worldofart</User> pass:KAmhduiZiSpGQF9 admin/Lxn08Qi6
+Comments12
+Zooming function on product page Hashir Dhattiwala
+Add an item
+Pinkpepper.no
+
+you have logins from earlier
+Comments2
+capcha error (missing) Hashir Dhattiwala
+Add an item
+ledonline.no
+packing slip Hashir Dhattiwala
+Comments23
+Missing shipping fee Hashir Dhattiwala
+Comments9
+Stock keeping report Hashir Dhattiwala 22 Dec 2015
+Comments2
+Payment alternative error Hashir Dhattiwala
+Add an item
+Englebarn.no
+
+See earlier "messages" for logins etc
+Comments3
+Packing slip pre shipping Hashir Dhattiwala
+Comments4
+Invoice pdf Hashir Dhattiwala
+Add an item
+Comments2
+Jan 12 credit a product not connected to an order (Hashir Dhattiwala)
+Comments8
+Jan 12 Alert message in admin (Hashir Dhattiwala)
+Comments2
+Jan 6 Product not showing (Hashir Dhattiwala)
+kaffemesteren.no
+Comments9
+Private vs business customers Hashir Dhattiwala
+Comments7
+Recurring orders Hashir Dhattiwala
+Comments3
+Edit PDFs (shipping / packing slip / invoice etc) Hashir Dhattiwala
+Comments14
+Translateions Hashir Dhattiwala
+Comments10
+Order not in magento but show in Klarna payment module Hashir Dhattiwala
+Add an item
+Interiorkupp.no
+Comments6
+Urgent: Error in prices Hashir Dhattiwala
+Add an item
+Hagefokus.no
+Comments52
+PostNord shipping / delivery method Hashir Dhattiwala
+Comments4
+TRansactional emails and pdf invoices Hashir Dhattiwala
+Add an item
+Mediaset.no
+Comments18
+Translations Hashir Dhattiwala
+Comments4
+Email edit Hashir Dhattiwala
+Comments2
+Welcome page / email Hashir Dhattiwala
+Comments25
+Tripletex invoice email address Hashir Dhattiwala
+Add an item
+Comments1
+Dec 11 Tripletex (Hashir Dhattiwala)
+Comments2
+Oct 24 Edits "My Account" / "Min konto" (Hashir Dhattiwala)
+VISMA eAccounting integration / extension
+Comments4
+Question - Estimate time Hashir Dhattiwala
+Add an item
+Elutstyr.no and masters.as (multisite)
+
+Tasks for elutstyr.no / masters.as (multisite)
+Comments10
+Transactional emails Hashir Dhattiwala
+Comments52
+Install cash back extension Hashir Dhattiwala
+Comments3
+Translation Hashir Dhattiwala
+Comments11
+Checkout error Hashir Dhattiwala
+Comments2
+"Sale" bubble Hashir Dhattiwala
+Comments4
+empty / clear all "Set product as new" Hashir Dhattiwala
+Comments41
+Install upgraded version of this feed extension from wyomind Hashir Dhattiwala
+Comments5
+Packing slip edit Hashir Dhattiwala
+Comments4
+Percentage bubble Hashir Dhattiwala
+Comments4
+Category images not showing Hashir Dhattiwala
+Comments8
+Bundle products Hashir Dhattiwala
+Comments7
+Biltilpasset tilbehør Hashir Dhattiwala
+Add an item
+Comments14
+Nov 25 Access denied (Hashir Dhattiwala)
+Comments2
+Oct 24 SVEA payment message (Hashir Dhattiwala)
+ 
+Managed with Basecamp.
+	
+New to-do list
+
+Show to-dos assigned to
+
+Show to-dos that are due
+
+Current to-do lists
+
+    add user to this project
+    xlklokker.no
+    Corefitness.no
+    Worldofart / woa.no
+    Pinkpepper.no
+    ledonline.no
+    Englebarn.no
+    kaffemesteren.no
+    Interiorkupp.no
+    Hagefokus.no
+    Mediaset.no
+    VISMA eAccounting integration / extension
+    Elutstyr.no and masters.as (multisite)
+
+Completed to-do lists
+
+    Kaffemesteren.no
+    kidsa.no
+    pinkpepper.no
+    Progettostudio.no
+    Test
+
